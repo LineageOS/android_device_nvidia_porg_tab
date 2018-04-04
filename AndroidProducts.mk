@@ -17,3 +17,11 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_porg_tab.mk \
     $(LOCAL_DIR)/lineage_porg_tab.mk
+
+COMMON_LUNCH_CHOICES := \
+    full_porg_tab-eng \
+    full_porg_tab-user \
+    full_porg_tab-userdebug \
+    lineage_porg_tab-eng \
+    lineage_porg_tab-user \
+    lineage_porg_tab-userdebug
