@@ -1,0 +1,10 @@
+[
+ {
+   "repository": "android_device_nvidia_foster_tab",
+   "target_path": "device/nvidia/foster_tab"
+ },
+ {
+   "repository": "android_device_nvidia_porg",
+   "target_path": "device/nvidia/porg"
+ }
+]
